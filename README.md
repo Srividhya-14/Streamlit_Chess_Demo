@@ -12,3 +12,4 @@ pip install python_chess
 streamlit run streamlit_chess_app.py
 ```
 We can then deploy using Streamlit Community Cloud 
+<img width="1905" height="1038" alt="image" src="https://github.com/user-attachments/assets/94bd41d2-5ccd-4b97-9b34-b88624207a0c" />
